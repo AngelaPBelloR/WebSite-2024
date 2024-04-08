@@ -33,7 +33,7 @@ function App() {
         <Route path="/motion" element={<MotionGraphics />}></Route>
         <Route path="/threeD" element={<ThreeD />}></Route>
         <Route path="/editorial" element={<LayoutDesign />}></Route>
-        <Route path="/logodesign" element={< b  nonce=''/>}></Route>
+        <Route path="/logodesign" element={<LogoDesign/>}></Route>
         <Route path="/uiux" element={<UiuxDesign />}></Route>
         <Route path="/shop" element={<Shop />}></Route>
       </Routes>

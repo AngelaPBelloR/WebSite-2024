@@ -1,6 +1,5 @@
 import about from './assets/images/ab_about.jpg';
 import experience from './assets/images/ProjectEditorialEx.gif';
-import hero1 from './assets/images/hero1.gif';
 import logoab from './assets/images/logoab_250.png';
 import paint from './assets/images/paint.gif'
 
@@ -14,7 +13,7 @@ function About() {
                 />
             </div>
             <div className='hero'>
-
+                
             </div>
             <div className="parallel">
                 <div className="framel">
@@ -25,9 +24,8 @@ function About() {
                 <div className="framer">
 
                     <h1>About</h1>
-                    <p>  I am a Visual Designer with a track record in creative solutions to challenging projects. What makes me unique is a background in engineering. As an engineer I developed critical thinking, problem-solving, time management, organizational and interpersonal communication skills. This combination of education and experience enables me to approach visual design challenges with strategy.
+                    <p>I am a Visual Designer with a track record in creative solutions to challenging projects. What makes me unique is a background in engineering. As an engineer I developed critical thinking, problem-solving, time management, organizational and interpersonal communication skills. This combination of education and experience enables me to approach visual design challenges with strategy.
                     </p>
-                
                 </div>
             </div>
 
@@ -54,21 +52,21 @@ function About() {
             <div className="parallel">
 
                 <div className="framel">
-                    <img
+                <img
                         src={paint}
                         alt="paint"
                     />
-
+             
                 </div>
 
                 <div className="framer">
-                    <h1>Shop</h1>
+                <h1>Shop</h1>
                     <p>Alonside design and web development, I love painting in oil on canvas,For several years, I dedicate to learn art techinicques and styles. My approach is realistic also incorporate illustraiton and color alteration.</p>
-
+                   
                     <a href="https://www.etsy.com/shop/AngelaBelloR" target="_blank" rel="noreferrer"><button>
                         Go shop...
-                    </button></a>
-
+                        </button></a>
+             
                 </div>
             </div>
         </>

@@ -1,4 +1,4 @@
-import avatar from './assets/images/AvatarAnimation.gif';
+
 function Home() {
     return (
         <div>
