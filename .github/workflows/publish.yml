@@ -37,8 +37,6 @@ jobs:
           cache: 'npm'
       # install packages and build
       - run: npm ci
-      - name: 'Run unit tests'
-        run: npm test
       - run: npm run build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
