@@ -33,9 +33,17 @@ p {
   margin-right: 30%;
 }
 
+
+.logoab{
+  background-image: url('./assets/images/logoab_100.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  
+}
+
 .avatar{
   background-image: url('./assets/images/AvatarAnimation.gif');
-  height: 900px;
+  height: 750px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -154,10 +162,22 @@ nav>.nav-item {
     margin-right: 15%;
   }
 
-  .hero {
-    max-width: 100%;
+
+  .logoab{
+    background-image: url('./assets/images/logoab_100.png');
+    height: 100px;
+    
+  }
+  .avatar{
+    height: 520px;
+  }
+
+  .hero, .abhero {
+    height: 270px;
    
   }
+
+  
 
   .parallel {
     display:contents;
@@ -186,10 +206,23 @@ nav>.nav-item {
   .page__description h1 {
     margin-top: 100px;
   }
-  .avatar{
-    max-width: 100%;
 
+
+  .logoab{
+    height: 75px;
+    
   }
+  .avatar{
+    height: 450px;
+  }
+  
+  .hero, .abhero {
+    height: 135px;
+   
+  }
+
+ 
+  
 
 
   p {

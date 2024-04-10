@@ -1,6 +1,11 @@
+
+
 function Contact() {
     return (
         <>
+           
+
+         
             <h1>Contact</h1>
             <h3>Email</h3>
 

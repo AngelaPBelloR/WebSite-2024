@@ -3,17 +3,14 @@ import covers from './assets/images/motioncovers.gif';
 import logo from './assets/images/acorn.gif';
 import editorial from './assets/images/ProjectEditorialEx.gif'
 import uiux from './assets/images/uiux.gif';
-import logoab from './assets/images/logoab_250.png';
 import threeD from './assets/images/3d.gif'
 import { Link } from 'react-router-dom';
 
 function Projects() {
     return (
         <>
-            <div>
-                <img src={logoab}
-                    alt="logoab"
-                />
+            <div className='logoab'>
+               
             </div>
             <div className="abhero">
                 

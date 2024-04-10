@@ -1,16 +1,13 @@
 import about from './assets/images/ab_about.jpg';
 import experience from './assets/images/ProjectEditorialEx.gif';
-import logoab from './assets/images/logoab_250.png';
 import paint from './assets/images/paint.gif'
 
 
 function About() {
     return (
         <>
-            <div>
-                <img src={logoab}
-                    alt="logoab"
-                />
+            <div className="logoab">
+                
             </div>
             <div className='hero'>
                 
