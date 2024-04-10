@@ -35,9 +35,10 @@ p {
 
 
 .logoab{
-  background-image: url('./assets/images/logoab_100.png');
+  background-image: url('./assets/images/logoab_250.png');
   background-repeat: no-repeat;
   background-position: center;
+  height: 250px;
   
 }
 
@@ -180,7 +181,7 @@ nav>.nav-item {
   
 
   .parallel {
-    display:contents;
+    display: block;
     margin-top: 6%;
   }
 
@@ -233,5 +234,28 @@ nav>.nav-item {
     margin-right: 3%;
   }
 
+  .parallel {
+    display: block;
+    
+  }
+
+  .framel {
+    margin: 0;
+    margin-top: 3%;
+
+
+  }
+
+
+
+  .framer {
+    margin: 0;
+    margin-top: 3%;
+
+  }
+
+  .framel img, .framer img{
+    width:  75%;
+  }
 
 }
