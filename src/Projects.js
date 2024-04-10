@@ -1,4 +1,3 @@
-import abhero from './assets/images/abhero.gif'
 import web from './assets/images/web.gif';
 import covers from './assets/images/motioncovers.gif';
 import logo from './assets/images/acorn.gif';
