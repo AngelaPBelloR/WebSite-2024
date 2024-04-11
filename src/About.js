@@ -33,10 +33,9 @@ function About() {
                     <h1>Experience</h1>
 
                     <p>
-                        I'm currently role as a Designer for WellSpa360 at Allured Media Bussines, I
-                        crafted captivating layouts for print and digital magazines, enabling readers to immerse themselves in content-rich articles. Even more, I contribute to elevate digital engagement through dynamic updates for both mobile and desktop views of the digital magazine.I also crafted interactive content, motion graphics, and animations. And  I aligned with marketing, innovating motion graphics, social media posts, animations, and web banners for high-impact events, webcasts, emails, and campaigns.
+                    I'm currently role as a Designer for WellSpa360 at Allured Media Bussines, I crafted captivating layouts for print and digital magazines, enabling readers to immerse themselves in content-rich articles. Even more, I contribute to elevating digital engagement through dynamic updates for both mobile and desktop views of the digital magazine. I also crafted interactive content, motion graphics, and animations. And  I aligned with marketing, innovating motion graphics, social media posts, animations, and web banners for high-impact events, webcasts, emails, and campaigns.
                         previously, as a freelancer, I created impactful digital content, meticulously embodying brand identity and editing images in Photoshop, amplifying their appeal to align with marketing strategies and user feedback.
-                        Another remarcabke expericed as UI/UX Designer. I contribute to relauch the intranet  UI design by distilling user needs into a compelling prototype, informed by surveys and interviews. In this project, I focus on  user-centric approach through actionable recommendations derived from rigorous UX researchand synchronized with developers, shaping functional features that empower users to customize workspaces, preferences, and shortcuts.
+                        Another remarkable experience I had, was as UI/UX Designer. I contributed to relaunching the intranet UI design by translating user needs into compelling and actionable recommendations derived from rigorous UX research synchronized with developers.
                     </p>
                 </div>
                 <div className="framer">
