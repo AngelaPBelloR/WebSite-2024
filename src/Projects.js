@@ -26,7 +26,7 @@ function Projects() {
 
                 <div className="framer">
                     <h1>Web</h1>
-                    <p>Here my personal web sites. I created all of them from scratch. I personally write the code utilizing html, javascript, and react. Even the one you are looking at rignt now is utilizin React. Since 2019, every year, I've relaunched my porfolio several times. The first website was created only in HTML and CCS. The second and third one utilized javascript libraries and this the last one is an app in React. All my work is found in GitHub.</p>
+                    <p>Here my personal web sites. I created all of them from scratch. I write the code utilizing html, javascript, and react. Even this one that you are looking at rignt now. I utilized is Basic React. Since 2019, every year, I've relaunched my porfolio several times. The first website was created only in HTML and CCS. On second and third one, I applied javascript libraries. Finally on this last one is an app in React. All my work is could be found On GitHub.</p>
 
                     <Link to="/webdesignanddev">
                         <button>Learn more...
