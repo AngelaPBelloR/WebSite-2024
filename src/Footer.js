@@ -1,6 +1,5 @@
 import ink from './assets/images/in.png';
 import inst from './assets/images/insta.jpg';
-import ab from './assets/images/logoab_100.png';
 import { Link } from "react-router-dom";
 import git from './assets/images/github.jpg';
 import etsy from './assets/images/etsy.jpg';
