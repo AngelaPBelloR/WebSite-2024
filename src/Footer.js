@@ -11,11 +11,9 @@ function Footer() {
         <>
 
             <div className="foot">
-                <div>
-                    <img src={ab}
-                        alt="logo"
-                    />
-                </div>
+                <div className='logoab'>
+               
+               </div>
                 <div className='banner'>
                     <table>
                         <tr>
