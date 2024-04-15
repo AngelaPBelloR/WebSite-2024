@@ -1,6 +1,6 @@
 import blender from './assets/images/blender.gif';
 import molecules from './assets/images/molecules.jpg'
-
+import tdab from'./assets/images/logoabtd.gif'
 function ThreeD() {
     return (
         <>
@@ -8,13 +8,17 @@ function ThreeD() {
 
             <h2>Blender</h2>
             <p>
-                I've created models in 3D Blender. Here a sample of wine label.
+                As I mention, I love crating animations. These are models in Blender. Here a sample of wine label.
             </p>
             <img src={blender}
             alt= "threeD"  
             /> 
 
-            
+            <p>Here is my logo animated</p>
+
+            <img src={tdab}
+            alt= "logotd"  
+            /> 
 
             <h2>Maya</h2>
             <p>
