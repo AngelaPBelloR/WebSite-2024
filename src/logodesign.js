@@ -125,7 +125,7 @@ function LogoDesign() {
                 </div>
 
             <h1>Philosophy</h1>
-            <p>ACONR stands for Accelerator Control Operation Reseaarch Network. The acronym conicide with the nut's name and its shape became the bundary of the logo. Internally we can see the paths of the particle accelerator at Fermilab. </p>
+            <p>ACORR stands for Accelerator Control Operation Reseaarch Network. The acronym conicide with the nut and its shape became the bundary of the logo. Internally we can see the paths of the particle accelerator at Fermilab. </p>
                     <img src={philo}
                     alt= "philosophy"  
                     /> 
@@ -133,7 +133,7 @@ function LogoDesign() {
 
             <h1>Acknowledgements</h1>
             <p>
-            I’m extremely grateful to my dear and beloved husband, Jullian Badillo, for his enormous collaboration, and I would like to extend my sincere thanks to the ACORN team:
+            I’m extremely grateful to my dear and beloved husband, Jullian Badillo, for his enormous collaboration and network. Besides, I would like to extend my sincere thanks to the ACORN team:
             <br />
             Tony Tiradani, 
             Lila Anderson,
@@ -143,7 +143,7 @@ function LogoDesign() {
             <br />
             Their practical suggestions and patience made possible the present work. 
             <br />
-            Finally, I’d like to recognize the help that I received  from:
+            Finally, I’d like to recognize the help and advice I received from my instructors:
             <br />
             Wendy Tritt 
             and Aleksandra Giza
