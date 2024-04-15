@@ -8,7 +8,7 @@ function ThreeD() {
 
             <h2>Blender</h2>
             <p>
-                As I mention before, I love creating animations. These are models in Blender. Here a sample of wine bottle and label.
+                As I mention before, I love creating animations. These are models in Blender. Here a sample of wine bottle and label. As you can see, I create a model of a bottl, the biggest challenge was to create the illusion of glass. Also, I illustrate and design the label.
             </p>
             <img src={blender}
             alt= "threeD"  
