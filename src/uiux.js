@@ -14,9 +14,9 @@ function uiux() {
         <>
         <h1>Overview</h1>
             <p>
-            NuMat Technologies needed to improve the navigation of its Intranet website, and the project’s main aim is to enhance the site’s user experience. The overall state of the Intranet website is intricate, inefficient, and lacks essential functions.
+            NuMat Technologies needed to improve the navigation of its Intranet website. The project’s main aim is to enhance the site’s user experience. The overall state of the Intranet website was intricate, inefficient, and lacked of essential functions.
 
-            To create a better user experience, this proposal will build a usable and click-able prototype for first-hand user testing. The user journey will have obstacle-free navigation without pain points or design bias. After the project close-out, collected user feedback will be the main contributor to boosting the performance expected from the website.
+            To create a better user experience. I created a proposal to build an usable and click-able prototype for first-hand user testing. The user journey will have obstacle-free navigation without pain points or design bias. After the project close-out, collected user feedback will be the main contributor to boosting the performance expected from the website.
             <br />
             MEDIA:Adobe XD
             
