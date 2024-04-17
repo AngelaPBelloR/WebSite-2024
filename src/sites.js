@@ -9,7 +9,7 @@ function WebDesignAndDev() {
 
             <h2>JavaScript Transitions</h2>
             <p>
-                From the most recent to the first one, here are the Portfolio Web Sites I've created. All of them from scratch, help me to better understand depelopment tools and experiment with different perspectives to solve the same problem: showcase my skills and projects. The third website I created, my approach was focus mainly on JavaSrcipt transitons. Also, portraiting in the best way my projects, I incorporated animation tools and profesional experience.
+                From the most recent to the first one, here are the Portfolio Web Sites I had deloped in Visual Studi Code. All of them from scratch, help me to better understand depelopment tools and experiment with different perspectives to solve the same problem: showcase my skills and projects. The image below show the third website I created, my approach was focus mainly on JavaSrcipt transitons. Also, portraiting in the best way my projects and incorporating animation tools and profesional experience.
             </p>
             <img src={WebPort}
             alt= "WebPort"  
@@ -17,7 +17,7 @@ function WebDesignAndDev() {
 
             <h2>Single Page</h2>
             <p>
-                For my second website, I created a single page layout based on a template. Here the transitons and dark mode utilizing Javascript. 
+                For my second website, I created a single page layout based on a template. Here the transitons and dark mode utilizing Javascript. To see more, please click to the GitHub link.
             </p>
             <img src={WebTrans}
             alt= "WebTrans"  
