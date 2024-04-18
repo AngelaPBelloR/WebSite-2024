@@ -15,7 +15,7 @@ function ThreeD() {
             /> 
 
             <p>
-            Here is an animation of my logo. My personal identity contains AB, which stands for, of course, Angela Bello. Also, there is a connection between both letters conforming to the Eye of Horus, an Eghyp symbol of restoration. This idea reinforces my stand as a designer: “I create meaningful and compelling designs by combining symbols and colors to enlighten the mind of the viewer.”
+            Here is an animation of my logo. My personal identity contains AB, which stands for, of course, Angela Bello. Also, there is a connection between both letters conforming to the Eye of Horus, an Egyptian symbol of restoration. This idea reinforces my stand as a designer: “I create meaningful and compelling designs by combining symbols and colors to enlighten the mind of the viewer.”
             </p>
 
             <img src={tdab}

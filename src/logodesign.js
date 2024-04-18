@@ -125,7 +125,7 @@ function LogoDesign() {
                 </div>
 
             <h1>Philosophy</h1>
-            <p>ACORR stands for Accelerator Control Operation Reseaarch Network. The acronym conicide with the nut and its shape became the bundary of the logo. Internally we can see the paths of the particle accelerator at Fermilab. </p>
+            <p>ACORN stands for Accelerator Control Operation Reseaarch Network. The acronym conicide with the nut and its shape became the bundary of the logo. Internally we can see the paths of the particle accelerator at Fermilab. </p>
                     <img src={philo}
                     alt= "philosophy"  
                     /> 
