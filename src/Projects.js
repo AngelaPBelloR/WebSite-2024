@@ -26,7 +26,7 @@ function Projects() {
 
                 <div className="framer">
                     <h1>Web</h1>
-                    <p>Here are my portfolio websites. I created all of them from scratch. I write the code utilizing HTML, JavaScript, and React. Even this one that you are looking at right now was personally crafted by myself utilizing Basic React. Since 2019,  I've relaunched my portfolio several times. The first website I created was only in HTML and CCS. On the second and the third one, I applied JavaScript libraries. Finally, this last one is a React app. You can see more on my profile at GitHub (clink on the icon on the footer).</p>
+                    <p>Here are my portfolio websites. I created all of them from scratch. I write the code utilizing HTML, JavaScript, and React. Even this one you are looking at right now, I crafted by myself utilizing Basic React. Since 2019,  I've relaunched my portfolio several times. The first website I created was only in HTML and CCS. On the second and the third one, I applied JavaScript libraries. Finally, this last one is a React app. You can see more on my profile at GitHub. (Click on the icon at the footer)</p>
 
                     <Link to="/webdesignanddev">
                         <button>Learn more...
@@ -39,7 +39,7 @@ function Projects() {
             <div className="parallel">
                 <div className="framel">
                     <h1>Motion Graphics</h1>
-                    <p>I created animated covers for WellSpa360 digital magazine incorporating Photoshop edition and motion graphics in AfterEffects. I also, collaborate with marketing campaigns by creating eblast and social media content. </p>
+                    <p>I create animated covers for WellSpa360 digital magazine by incorporating Photoshop edition and motion graphics in AfterEffects. I also collaborated with marketing campaigns by creating eblast and social media content. </p>
 
                     <Link to="/motion">
                         <button>Learn more...
@@ -66,7 +66,7 @@ function Projects() {
 
             <div className="framer">
                 <h1>3D Design</h1>
-                <p>From my engineering backgroud, I learned computing aid design tools skills I transfer to visualize and design 3D objects. As a quick and curious learner, I also utilized tools as Blender and Maya.</p>
+                <p>My first career was in engineering, where  I learned computing aid design tools to create 3D objects and visualizations. I comfortably transferred these skills as a quick and curious learner by becoming proficient in Blender and Maya.</p>
                 <Link to="/threeD">
                         <button>Learn more...
                         </button>
