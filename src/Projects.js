@@ -5,10 +5,13 @@ import editorial from './assets/images/ProjectEditorialEx.gif'
 import uiux from './assets/images/uiux.gif';
 import threeD from './assets/images/3d.gif'
 import { Link } from 'react-router-dom';
+import { motion } from "framer-motion";
+import { fadeIn } from "./animation";
+
 
 function Projects() {
     return (
-        <>
+        <motion.div variants={fadeIn} initial="initial" animate="final">
             <div className='logoab'>
                
             </div>
@@ -137,7 +140,7 @@ function Projects() {
 
            
          
-        </>
+        </motion.div>
     )
 }
 
