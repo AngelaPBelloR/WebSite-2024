@@ -1,17 +1,26 @@
 import about from './assets/images/ab_about.jpg';
 import experience from './assets/images/ProjectEditorialEx.gif';
-import paint from './assets/images/paint.gif'
+import paint from './assets/images/paint.gif';
+import { motion } from "framer-motion";
+import { fadeIn } from "./animation";
+
 
 
 function About() {
     return (
-        <>
+        <>  <motion.div variants={fadeIn} initial="initial" animate="final">
             <div className="logoab">
                 
             </div>
+           
             <div className='hero'>
                 
             </div>
+               
+           
+
+
+
             <div className="parallel">
                 <div className="framel">
                     <img src={about}
@@ -65,6 +74,7 @@ function About() {
              
                 </div>
             </div>
+            </motion.div> 
         </>
     )
 }
