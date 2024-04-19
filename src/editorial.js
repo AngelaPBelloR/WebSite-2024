@@ -7,7 +7,7 @@ function LayoutDesign() {
 
         <h2>Layout Design</h2>
         <p>
-            Combining typeface mattching and images for Adobe stock, here some samples of the best layouts I have designed for WellSpa360.
+        I have designed  layout utilzing InDesign templates for WellSpa360 magazine by combining typeface mattching, color, and Adobe Stock images. 
 
         </p>
 
