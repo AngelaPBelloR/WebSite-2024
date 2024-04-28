@@ -85,7 +85,7 @@ function Projects() {
 
                 <div className="framel">
                     <h1>Editorial</h1>
-                    <p>I created layouts for WellSpa360 magazine. Besedes, I created  this promotional newsletter animation.</p>
+                    <p>I created layouts for print and digital WellSpa360 magazine.</p>
                     <Link to="/editorial">
                         <button>Learn more...
                         </button>
@@ -124,7 +124,7 @@ function Projects() {
 
                 <div className="framel">
                     <h1>UI/UX</h1>
-                    <p>User interface Design for Numat Technology was a project in which I created a prototype in XD considering the user centered approach and UI/UX methodology</p>
+                    <p>User interface Design for Numat Technology was a project in which I created a prototype in XD considering the user centered approach and UI/UX methodology.</p>
                     <Link to="/uiux">
                         <button>Learn more...
                         </button>
