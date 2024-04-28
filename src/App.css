@@ -263,3 +263,16 @@ nav>.nav-item {
   }
 
 }
+.flipBook {
+  display: grid;
+  place-items: center;
+  width: 100%;
+}
+.flipBook .buttons {
+  width: 100%;
+  /* border: 1px solid red; */
+  padding-top: 1em;
+}
+.demoPage {
+  border: 1px solid #957ca4;
+}

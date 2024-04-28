@@ -7,6 +7,7 @@ import threeD from './assets/images/3d.gif'
 import { Link } from 'react-router-dom';
 import { motion } from "framer-motion";
 import { fadeIn } from "./animation";
+import MyBook from './Book';
 
 
 function Projects() {
@@ -138,7 +139,10 @@ function Projects() {
                 </div>
             </div>
 
-           
+           <div className="flipBook">
+            <h1>Brochures</h1>
+            <MyBook />
+           </div>
          
         </motion.div>
     )
