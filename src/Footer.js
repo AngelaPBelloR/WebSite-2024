@@ -82,6 +82,15 @@ function Footer() {
                             </td>
                             <td>&nbsp;</td>
                         </tr>
+                        <tr>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                            <td>
+
+                                <Link to="/icons" className="nav-item">Icons Book</Link>
+                            </td>
+                            <td>&nbsp;</td>
+                        </tr>
                     </table>
                 </div>
 

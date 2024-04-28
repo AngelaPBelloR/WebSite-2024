@@ -4,7 +4,7 @@ import logo from './assets/images/acorn.gif';
 import editorial from './assets/images/ProjectEditorialEx.gif'
 import uiux from './assets/images/uiux.gif';
 import threeD from './assets/images/3d.gif';
-import icons from './assets/images/icons.jpg'
+import icons from './assets/images/icons.jpg';
 import { Link } from 'react-router-dom';
 import { motion } from "framer-motion";
 import { fadeIn } from "./animation";
