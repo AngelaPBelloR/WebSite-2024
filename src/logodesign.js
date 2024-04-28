@@ -9,6 +9,7 @@ import treatment from './assets/images/typetreatment.png'
 import question from './assets/images/question.png'
 import final from './assets/images/final.png'
 import philo from './assets/images/philosophy.gif'
+import Brandbook from './Brand';
 
 
 function LogoDesign() {
@@ -129,6 +130,15 @@ function LogoDesign() {
                     <img src={philo}
                     alt= "philosophy"  
                     /> 
+
+
+
+      
+           <div className="flipBook">
+            <h1>Brand Book</h1>
+            <Brandbook />
+           </div>
+
 
 
             <h1>Acknowledgements</h1>
