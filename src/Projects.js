@@ -3,11 +3,11 @@ import covers from './assets/images/motioncovers.gif';
 import logo from './assets/images/acorn.gif';
 import editorial from './assets/images/ProjectEditorialEx.gif'
 import uiux from './assets/images/uiux.gif';
-import threeD from './assets/images/3d.gif'
+import threeD from './assets/images/3d.gif';
+import icons from './assets/images/icons.jpg'
 import { Link } from 'react-router-dom';
 import { motion } from "framer-motion";
 import { fadeIn } from "./animation";
-import MyBook from './Book';
 
 
 function Projects() {
@@ -139,10 +139,26 @@ function Projects() {
                 </div>
             </div>
 
-           <div className="flipBook">
-            <h1>Brochures</h1>
-            <MyBook />
-           </div>
+         
+             <div className="parallel">
+
+                <div className="framel">
+                <img
+                        src={icons}
+                        alt="icons"
+                    />
+                   
+                </div>
+
+                <div className="framer">
+                <h1>Icons Book</h1>
+                    <p>This is a collection of icons I have created for a variety of projects.</p>
+                    <Link to="/icons">
+                        <button>Learn more...
+                        </button>
+                     </Link>
+                </div>
+            </div>
          
         </motion.div>
     )

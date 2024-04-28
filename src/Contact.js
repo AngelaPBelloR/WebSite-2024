@@ -5,6 +5,10 @@ function Contact() {
     return (
         <motion.div variants={fadeIn} initial="initial" animate="final">
             <h1>Contact</h1>
+
+            <div className="abhero">
+                
+            </div>
             <h3>Email</h3>
 
             <a href="mailto:angela.52911@gmail.com" target="_blank" rel="noreferrer">
