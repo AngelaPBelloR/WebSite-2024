@@ -19,6 +19,25 @@ function Projects() {
             <div className="abhero">
                 
             </div>
+
+            <div className="parallel">
+
+<div className="framel">
+    <h1>UI/UX</h1>
+    <p>User interface Design for Numat Technology was a project in which I created a prototype in XD considering the user centered approach and UI/UX methodology.</p>
+    <Link to="/uiux">
+        <button>Learn more...
+        </button>
+     </Link>
+</div>
+
+<div className="framer">
+    <img
+        src={uiux}
+        alt="uiux"
+    />
+</div>
+</div>
             <div className="parallel">
                 <div className="framel">
                     <img
@@ -120,24 +139,7 @@ function Projects() {
                 </div>
             </div>
 
-            <div className="parallel">
-
-                <div className="framel">
-                    <h1>UI/UX</h1>
-                    <p>User interface Design for Numat Technology was a project in which I created a prototype in XD considering the user centered approach and UI/UX methodology.</p>
-                    <Link to="/uiux">
-                        <button>Learn more...
-                        </button>
-                     </Link>
-                </div>
-
-                <div className="framer">
-                    <img
-                        src={uiux}
-                        alt="uiux"
-                    />
-                </div>
-            </div>
+          
 
          
              <div className="parallel">
