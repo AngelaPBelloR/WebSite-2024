@@ -22,22 +22,43 @@ function Projects() {
 
             <div className="parallel">
 
-<div className="framel">
-    <h1>UI/UX</h1>
-    <p>User interface Design for Numat Technology was a project in which I created a prototype in XD considering the user centered approach and UI/UX methodology.</p>
-    <Link to="/uiux">
-        <button>Learn more...
-        </button>
-     </Link>
-</div>
+                <div className="framel">
+                    <h1>UI/UX</h1>
+                    <p>User interface Design for Numat Technology was a project in which I created a prototype in XD considering the user centered approach and UI/UX methodology.</p>
+                    <Link to="/uiux">
+                        <button>Learn more...
+                        </button>
+                    </Link>
+                </div>
 
-<div className="framer">
-    <img
-        src={uiux}
-        alt="uiux"
-    />
-</div>
-</div>
+                <div className="framer">
+                    <img
+                        src={uiux}
+                        alt="uiux"
+                    />
+                </div>
+            </div>
+
+             
+            <div className="parallel">
+
+                <div className="framel">
+                <img
+                        src={icons}
+                        alt="icons"
+                    />
+                
+                </div>
+
+                <div className="framer">
+                <h1>Icons Book</h1>
+                    <p>This is a collection of icons I have created for a variety of projects.</p>
+                    <Link to="/icons">
+                        <button>Learn more...
+                        </button>
+                    </Link>
+                </div>
+            </div>
             <div className="parallel">
                 <div className="framel">
                     <img
@@ -141,26 +162,8 @@ function Projects() {
 
           
 
-         
-             <div className="parallel">
-
-                <div className="framel">
-                <img
-                        src={icons}
-                        alt="icons"
-                    />
-                   
-                </div>
-
-                <div className="framer">
-                <h1>Icons Book</h1>
-                    <p>This is a collection of icons I have created for a variety of projects.</p>
-                    <Link to="/icons">
-                        <button>Learn more...
-                        </button>
-                     </Link>
-                </div>
-            </div>
+        
+          
          
         </motion.div>
     )
