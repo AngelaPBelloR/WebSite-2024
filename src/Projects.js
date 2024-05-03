@@ -59,6 +59,7 @@ function Projects() {
                     </Link>
                 </div>
             </div>
+
             <div className="parallel">
                 <div className="framel">
                     <img
@@ -101,22 +102,22 @@ function Projects() {
 
             <div className="parallel">
 
-            <div className="framel">
-                <img
-                    src={threeD}
-                    alt="3d"
-                />
-            </div>
+                <div className="framel">
+                    <img
+                        src={threeD}
+                        alt="3d"
+                    />
+                </div>
 
-            <div className="framer">
-                <h1>3D Design</h1>
-                <p>My first career was in engineering, where  I learned computing aid design tools to create 3D objects and visualizations. I comfortably transferred these skills as a quick and curious learner by becoming proficient in Blender and Maya.</p>
-                <Link to="/threeD">
-                        <button>Learn more...
-                        </button>
-                </Link>
+                <div className="framer">
+                    <h1>3D Design</h1>
+                    <p>My first career was in engineering, where  I learned computing aid design tools to create 3D objects and visualizations. I comfortably transferred these skills as a quick and curious learner by becoming proficient in Blender and Maya.</p>
+                    <Link to="/threeD">
+                            <button>Learn more...
+                            </button>
+                    </Link>
 
-            </div>
+                </div>
 
             </div>
 
