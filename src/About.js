@@ -65,7 +65,7 @@ function About() {
                 </div>
 
                 <div className="framer">
-                <h1>Shop</h1>
+                <h1>Gallery</h1>
                     <p>Alonside design and web development, I love painting in oil on canvas. For several years, I dedicate to learn art techinicques and styles. My approach is realistic also incorporate illustraiton, and color alteration.</p>
                    
                     <a href="https://www.etsy.com/shop/AngelaBelloR" target="_blank" rel="noreferrer"><button>
