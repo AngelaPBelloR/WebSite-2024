@@ -10,7 +10,7 @@ function motion() {
 
         <h2>Cover Animation</h2>
         <p>
-            Incorporating Photoshop edition, here is one of latest covers I have created for WellSpa360 in After Effects.
+            Incorporating Photoshop edition, here are the latest covers, I have created for WellSpa360 in After Effects.
         </p>
 
         <img src={Cover}
