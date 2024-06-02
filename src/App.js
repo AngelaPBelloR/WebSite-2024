@@ -2,6 +2,7 @@ import './App.css';
 import Home from "./Home";
 import About from "./About";
 import Projects from "./Projects";
+import Gallery from "./gallery";
 import Contact from "./Contact";
 import { Routes, Route, Link } from "react-router-dom";
 import { AnimatePresence } from "framer-motion";
@@ -23,6 +24,7 @@ function App() {
           <Link to="/" className="nav-item">Home</Link>
           <Link to="/about" className="nav-item">About</Link>
           <Link to="/projects" className="nav-item">Projects</Link>
+          <Link to="/gallery" className="nav-item">Gallery</Link>
           <Link to="/contact" className="nav-item">Contact</Link>
         </nav>
         <LocationProvider>
@@ -46,6 +48,7 @@ function RoutesWithAnimation() {
       <Route path="/" element={<Home />}></Route>
       <Route path="/about" element={<About />}></Route>
       <Route path="/projects" element={<Projects />}></Route>
+      <Route path="/gallery" element={<Gallery />}></Route>
       <Route path="/contact" element={<Contact />}></Route>
       <Route path="/webdesignanddev" element={<WebDesignAndDev />}></Route>
       <Route path="/motion" element={<MotionGraphics />}></Route>
