@@ -16,6 +16,7 @@ import UiuxDesign from './uiux';
 import Shop from './shop';
 import ThreeD from "./threeD";
 import IconsBook from "./Icons";
+import Rose from './rose';
 
 function App() {
   return (
@@ -58,6 +59,7 @@ function RoutesWithAnimation() {
       <Route path="/uiux" element={<UiuxDesign />}></Route>
       <Route path="/shop" element={<Shop />}></Route>
       <Route path="/icons" element={<IconsBook/>}></Route>
+      <Route path="/rose" element={<Rose/>}></Route>
     </Routes>
   );
 }
