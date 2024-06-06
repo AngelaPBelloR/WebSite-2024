@@ -28,6 +28,9 @@ function Footer() {
                             <th>
                                 <Link to="/contact" className="nav-item">Contact</Link>
                             </th>
+                            <th>
+                                <Link to="/gallery" className="nav-item">Gallery</Link>
+                            </th>
                         </tr>
                         <tr>
                             <td>&nbsp;</td>
