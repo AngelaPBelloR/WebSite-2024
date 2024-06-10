@@ -2,7 +2,8 @@ import Type from './assets/images/type.gif';
 import Cover from './assets/images/cover.gif';
 import Trip from './assets/images/triptothemoon.gif';
 import Campaign from './assets/images/campaign.gif';
-import may from './assets/images/may.gif';
+
+import teaser from './assets/images/teaser.gif';
 function motion() {
     return (
         <>
@@ -15,8 +16,8 @@ function motion() {
         In my senior year, I illustrated May for a School project. Today, she is the protagonist of the teaser for my website relaunch. 
         </p>
 
-        <img src={may}
-        alt= "may"  
+        <img src={teaser}
+        alt= "teaser"  
         /> 
 
         <h2>Cover Animation</h2>

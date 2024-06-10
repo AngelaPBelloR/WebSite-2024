@@ -94,7 +94,7 @@ function Projects() {
 
                 <div className="framer">
                 <h1>Motion Graphics</h1>
-                    <p>For long time, I've been experimenting with after effects, welcome to see my personal and professiona; projects.</p>
+                    <p>For long time, I've been experimenting with after effects, welcome to see my personal and professional projects.</p>
 
                     <Link to="/motion">
                         <button>Learn more...
