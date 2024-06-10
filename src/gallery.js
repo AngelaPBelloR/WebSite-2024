@@ -23,6 +23,7 @@ function gallery() {
             <Link to="/rose">
                         <button>Learn more...
                         </button>
+                        
             </Link>
            
 
