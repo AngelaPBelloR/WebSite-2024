@@ -39,8 +39,8 @@ function motion() {
 
         <h2>Title Sequence</h2>
         <p>
-           During my senior year, I've created this project, I'm so proud to share here. A title sequence for the first science fiction movie, The Trip to the Moon. 
-           The typeface is Sunken Sans, a typeface, I had created previously.
+           During my senior year, I've created a title sequence for the first science fiction movie, The Trip to the Moon by Gorges Méliès. 
+           Typeface: Sunken Sans, also by Angela Bello.
         </p>
 
         <img src={Trip}
