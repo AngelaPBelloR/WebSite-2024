@@ -2,15 +2,26 @@ import Type from './assets/images/type.gif';
 import Cover from './assets/images/cover.gif';
 import Trip from './assets/images/triptothemoon.gif';
 import Campaign from './assets/images/campaign.gif';
+import may from './assets/images/may.gif';
 function motion() {
     return (
         <>
 
         <h1>Motion Graphics </h1>
 
+
+        <h2>Teaser Campaign</h2>
+        <p>
+        In my senior year, I illustrated May for a School project. Today, she is the protagonist of the teaser for my website relaunch. 
+        </p>
+
+        <img src={may}
+        alt= "may"  
+        /> 
+
         <h2>Cover Animation</h2>
         <p>
-            Incorporating Photoshop edition, here are the latest covers, I have created for WellSpa360 in After Effects.
+        I currently work for WellSpa360 Masgazine where I  creted motion grphics for digital magazine cover and features articles. I incorporate Photoshop edition and motion in AfterEffects. I also collaborated with marketing campaigns by creating eblast and social media content.
         </p>
 
         <img src={Cover}

@@ -1,5 +1,5 @@
 import web from './assets/images/web.gif';
-import covers from './assets/images/motioncovers.gif';
+import may from './assets/images/may.gif';
 import logo from './assets/images/acorn.gif';
 import editorial from './assets/images/ProjectEditorialEx.gif'
 import uiux from './assets/images/uiux.gif';
@@ -86,15 +86,15 @@ function Projects() {
             <div className="parallel">
                 <div className="framel">
                 <img
-                        src={covers}
-                        alt="covers"
+                        src={may}
+                        alt="may"
                     />
                     
                 </div>
 
                 <div className="framer">
                 <h1>Motion Graphics</h1>
-                    <p>I create animated covers for WellSpa360 digital magazine by incorporating Photoshop edition and motion graphics in AfterEffects. I also collaborated with marketing campaigns by creating eblast and social media content. </p>
+                    <p>For long time, I've been experimenting with after effects, welcome to see my personal and professiona; projects.</p>
 
                     <Link to="/motion">
                         <button>Learn more...

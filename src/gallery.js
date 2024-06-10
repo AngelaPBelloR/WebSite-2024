@@ -1,9 +1,6 @@
 import { motion } from "framer-motion";
 import { fadeIn } from "./animation";
 import rose from './assets/images/chicagoRose.gif';
-import bridge from './assets/images/ima01_600x450.jpg';
-import scintillating from './assets/images/ima02_600x450.jpg';
-import rain from './assets/images/ima03_600x450.jpg';
 import { Link } from 'react-router-dom';
 
 function gallery() {
