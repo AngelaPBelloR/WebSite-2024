@@ -14,7 +14,7 @@ function gallery() {
             <img src={rose}
             alt= "chicagoRose"  
             /> 
-            <p>Sky pink caused by scatter phenomena where the shorter wavelenght blues and violets are scattered, leaving yellows. oranges, and red to be more visibles. The vibrant sunsets behind the skicrapers create this beatiful urban scenes... that I can not leave without take them! 
+            <p>Sky pink caused by scatter phenomena where the shorter wavelenght blues and violets are scattered, leaving yellows. oranges, and red to be more visibles. The vibrant sunsets behind the skicrapers create this beatiful urban scenes... that I can not leave without paint them! 
             </p>
            
             <Link to="/rose">
