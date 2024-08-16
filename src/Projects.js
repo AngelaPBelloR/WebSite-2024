@@ -2,7 +2,6 @@ import web from './assets/images/web.gif';
 import may from './assets/images/may.gif';
 import logo from './assets/images/acorn.gif';
 import editorial from './assets/images/ProjectEditorialEx.gif'
-import uiux from './assets/images/uiux.gif';
 import threeD from './assets/images/3d.gif';
 import icons from './assets/images/icons.jpg';
 import { Link } from 'react-router-dom';
