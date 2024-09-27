@@ -47,7 +47,7 @@ p {
 
 .avatar{
   background-image: url('./assets/images/AvatarAnimation.gif');
-  height: 750px;
+  height: 420px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -113,7 +113,7 @@ nav>.nav-item {
 
 .foot {
   text-align: center;
-  margin-top: 3%;
+  margin-top: 1.5%;
 }
 
 .banner {
@@ -169,11 +169,11 @@ nav>.nav-item {
 
   .logoab{
     background-image: url('./assets/images/logoab_100.png');
-    height: 100px;
+    height: 60px;
     
   }
   .avatar{
-    height: 520px;
+    height: 420px;
   }
 
   .hero, .abhero {
