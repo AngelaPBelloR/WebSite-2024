@@ -2,6 +2,7 @@ import Type from './assets/images/type.gif';
 import Cover from './assets/images/cover.gif';
 import Trip from './assets/images/triptothemoon.gif';
 import Campaign from './assets/images/campaign.gif';
+import Advanced from './assets/images/AdvancedAF.gif';
 
 import teaser from './assets/images/teaser.gif';
 function motion() {
@@ -10,6 +11,14 @@ function motion() {
 
         <h1>Motion Graphics </h1>
 
+        <h2>Advanced After Effects</h2>
+        <p>
+         
+        </p>
+
+        <img src={Advanced}
+        alt= "Advanced"  
+        /> 
 
         <h2>Teaser Campaign</h2>
         <p>
