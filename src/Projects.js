@@ -1,4 +1,5 @@
 import web from './assets/images/web.gif';
+import uiux from './assets/images/uiux.gif'
 import may from './assets/images/may.gif';
 import logo from './assets/images/acorn.gif';
 import editorial from './assets/images/ProjectEditorialEx.gif'
@@ -21,10 +22,36 @@ function Projects() {
 
             <div className="parallel">
                 <div className="framel">
+                
+
+                <img
+                        src={web}
+                        alt="web"
+                    />
+                   
+
+                </div>
+
+                <div className="framer">
+
+
                 <h1>Web</h1>
                     <p>Here are my portfolio websites. I created all of them from scratch. I write the code utilizing HTML, JavaScript, and React. Even this one you are looking at right now, I crafted by myself utilizing Basic React. Since 2019,  I've relaunched my portfolio several times. The first website I created was only in HTML and CCS. On the second and the third one, I applied JavaScript libraries. Finally, this last one is a React app. You can see more on my profile at GitHub. (Click on the icon at the footer)</p>
 
                     <Link to="/webdesignanddev">
+                        <button>Learn more...
+                        </button>
+                        </Link>
+              
+                </div>
+            </div>
+
+            <div className="parallel">
+                <div className="framel">
+                <h1>UI/UX</h1>
+                    <p>Study case for a Client.</p>
+
+                    <Link to="/uiux">
                         <button>Learn more...
                         </button>
                         </Link>
@@ -35,8 +62,8 @@ function Projects() {
 
                 <div className="framer">
                 <img
-                        src={web}
-                        alt="web"
+                        src={uiux}
+                        alt="uiux"
                     />
                    
                 </div>

@@ -1,5 +1,5 @@
 import about from './assets/images/ab_about.jpg';
-import experience from './assets/images/ProjectEditorialEx.gif';
+import experience from './assets/images/about_af.gif';
 import paint from './assets/images/paint.gif';
 import { motion } from "framer-motion";
 import { fadeIn } from "./animation";
@@ -42,7 +42,7 @@ function About() {
                     <h1>Experience</h1>
 
                     <p>
-                    I'm currently role as a Designer for WellSpa360 at Allured Media Bussines, I crafted captivating layouts for print and digital magazines, enabling readers to immerse themselves in content-rich articles. Even more, I contribute to elevating digital engagement through dynamic updates for both mobile and desktop views of the digital magazine. I also crafted interactive content, motion graphics, and animations. And  I aligned with marketing, innovating motion graphics, social media posts, animations, and web banners for high-impact events, webcasts, emails, and campaigns.
+                    My current role is Designer for WellSpa360 at Allured Media Bussines, I crafted captivating layouts for print and digital magazines, enabling readers to immerse themselves in content-rich articles. Even more, I contribute to elevating digital engagement through dynamic updates for both mobile and desktop views of the digital magazine. I also crafted interactive content, motion graphics, and animations. And  I aligned with marketing, innovating motion graphics, social media posts, animations, and web banners for high-impact events, webcasts, emails, and campaigns.
                     Previously, as a freelancer, I created impactful digital content, meticulously embodying brand identity and editing images in Photoshop, amplifying their appeal to align with marketing strategies and user feedback.
                     Another remarkable experience I had as a UI/UX Designer. I contributed to relaunching the intranet UI design by translating user needs into compelling and actionable recommendations derived from rigorous UX research synchronized with developers.
                     </p>
