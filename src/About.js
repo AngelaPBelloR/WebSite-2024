@@ -66,7 +66,7 @@ function About() {
 
                 <div className="framer">
                 <h1>Gallery</h1>
-                    <p>Alonside design and web development, I love painting in oil on canvas. For several years, I dedicate to learn art techinicques and styles. My approach is realistic also incorporate illustration, and color alteration.</p>
+                    <p>Alongside design and web development, I love painting in oil on canvas. For several years, I dedicate to learn art techinicques and styles. My approach is realistic also incorporate illustration, and color alteration.</p>
                    
                    
              
