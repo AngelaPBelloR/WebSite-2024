@@ -45,6 +45,15 @@ function Footer() {
                             <td>&nbsp;</td>
                             <td>
 
+                                <Link to="/uiux" className="nav-item">UI/UX</Link>
+                            </td>
+                            <td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                            <td>
+
                                 <Link to="/motion" className="nav-item">Motion Graphics</Link>
                             </td>
                             <td>&nbsp;</td>
@@ -76,15 +85,7 @@ function Footer() {
                             </td>
                             <td>&nbsp;</td>
                         </tr>
-                        <tr>
-                            <td>&nbsp;</td>
-                            <td>&nbsp;</td>
-                            <td>
-
-                                <Link to="/uiux" className="nav-item">UI/UX</Link>
-                            </td>
-                            <td>&nbsp;</td>
-                        </tr>
+                      
                         <tr>
                             <td>&nbsp;</td>
                             <td>&nbsp;</td>
