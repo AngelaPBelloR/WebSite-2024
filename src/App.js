@@ -8,6 +8,7 @@ import { Routes, Route, Link } from "react-router-dom";
 import { AnimatePresence } from "framer-motion";
 import { useLocation } from "react-router-dom"
 import Footer from './Footer';
+import Datav from './datav';
 import WebDesignAndDev from './sites';
 import MotionGraphics from './motion';
 import LayoutDesign from './editorial';
@@ -51,6 +52,7 @@ function RoutesWithAnimation() {
       <Route path="/projects" element={<Projects />}></Route>
       <Route path="/gallery" element={<Gallery />}></Route>
       <Route path="/contact" element={<Contact />}></Route>
+      <Route path="/datav" element={<Datav />}></Route>
       <Route path="/webdesignanddev" element={<WebDesignAndDev />}></Route>
       <Route path="/motion" element={<MotionGraphics />}></Route>
       <Route path="/threeD" element={<ThreeD />}></Route>

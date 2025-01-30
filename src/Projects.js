@@ -1,4 +1,5 @@
 import web from './assets/images/web.gif';
+import data from './assets/images/data.gif';
 import uiux from './assets/images/uiux.gif'
 import may from './assets/images/may.gif';
 import logo from './assets/images/acorn.gif';
@@ -19,9 +20,31 @@ function Projects() {
             <div className="abhero">
                 
             </div>
-
+            
             <div className="parallel">
                 <div className="framel">
+                <h1>Data Visualization and Infographics</h1>
+                    <p>In these projects my main aim was effectively assess, present, communicate and visualize data.</p>
+
+                    <Link to="/datav">
+                        <button>Learn more...
+                        </button>
+                    </Link>
+
+                    
+
+                </div>
+
+                <div className="framer">
+                <img
+                        src={data}
+                        alt="data"
+                    />
+                   
+                </div>
+            </div>
+            <div className="parallel">
+            <div className="framel">
                 
 
                 <img
