@@ -11,7 +11,7 @@ function data() {
         <>
         <h1>Overview</h1>
             <p>
-            The National Health Interview Survey-Teen (NHIS-Teen) was an online health survey of teenagers ages 12-17. NHIS-Teen was developed with the input of health and survey experts from both academia and the government, covering a range of health topics. This included doctor visits, sleep, physical activity, injuries, mental health, social and emotional supports, experiences with bullying, discrimination, and other life stressors. This data visualization project I developed analitical and persuation skills by recommeding practical solutions to skateholders. 
+            The National Health Interview Survey-Teen (NHIS-Teen) was an online health survey of teenagers ages 12-17. NHIS-Teen was developed with the input of health and survey experts from both academia and the government, covering a range of health topics. This included doctor visits, sleep, physical activity, injuries, mental health, social and emotional supports, experiences with bullying, discrimination, and other life stressors. In this data visualization project, I developed analitical and persuation skills by recommeding practical solutions to skateholders. 
             <br />
             MEDIA:Tableau, Excel
             
