@@ -24,7 +24,7 @@ function Projects() {
             <div className="parallel">
                 <div className="framel">
                 <h1>Data Visualization and Infographics</h1>
-                    <p>In these projects my main aim was effectively assess, present, communicate and visualize data.</p>
+                    <p>In these project my main aim was effectively assess, present, communicate and visualize data.</p>
 
                     <Link to="/datav">
                         <button>Learn more...
