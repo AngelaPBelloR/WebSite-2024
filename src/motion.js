@@ -3,7 +3,8 @@ import Cover from './assets/images/cover.gif';
 import Trip from './assets/images/triptothemoon.gif';
 import Campaign from './assets/images/campaign.gif';
 import Advanced from './assets/images/AdvancedAF.gif';
-
+import Stories from './assets/images/stories.gif';
+import Newsletter from './assets/images/newsletters.gif';
 import teaser from './assets/images/teaser.gif';
 function motion() {
     return (
@@ -38,10 +39,28 @@ function motion() {
         alt= "cover"  
         /> 
 
+        <h2>Teaser Stories</h2>
+        <p>
+        Photoshop edition and motion in AfterEffects, stories format:
+        </p>
+
+        <img src={Stories}
+        alt= "stories"  
+        /> 
+
+        <h2>Newsletters</h2>
+        <p>
+        Flipping magazine animation for newsletters:
+        </p>
+
+        <img src={Newsletter}
+        alt= "newsletter"  
+        /> 
+        
         <h2>Marketing Campaigns</h2>
 
         <p>
-            Content creation sample of social media on AfterEffects 
+            Content creation sample of social media in AfterEffects 
         </p>
         <img src={Campaign}
         alt= "Campaign"  
