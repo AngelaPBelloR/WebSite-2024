@@ -50,8 +50,8 @@ function motion() {
 
         <h2>Newsletters</h2>
         <p>
-        Flipping magazine animation for newsletters:
-        </p>
+        Flipping magazine animation for newsletters: (Images from Adobe Stock)
+         </p>
 
         <img src={Newsletter}
         alt= "newsletter"  
