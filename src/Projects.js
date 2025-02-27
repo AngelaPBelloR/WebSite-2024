@@ -1,11 +1,11 @@
 import web from './assets/images/web.gif';
 import data from './assets/images/data.gif';
 import uiux from './assets/images/uiux.gif'
-import may from './assets/images/may.gif';
 import logo from './assets/images/acorn.gif';
 import editorial from './assets/images/ProjectEditorialEx.gif'
 import threeD from './assets/images/3d.gif';
 import icons from './assets/images/icons.jpg';
+import teaser from './assets/images/teaser.gif';
 import { Link } from 'react-router-dom';
 import { motion } from "framer-motion";
 import { fadeIn } from "./animation";
@@ -21,6 +21,27 @@ function Projects() {
                 
             </div>
             
+            <div className="parallel">
+                <div className="framel">
+                <img
+                        src={teaser}
+                        alt="teaser"
+                    />
+                    
+                </div>
+
+                <div className="framer">
+                <h1>Motion Graphics</h1>
+                    <p>For long time, I've been experimenting with after effects, welcome to see my personal and professional projects.</p>
+
+                    <Link to="/motion">
+                        <button>Learn more...
+                        </button>
+                        </Link>
+                
+                </div>
+            </div>
+
             <div className="parallel">
                 <div className="framel">
                 <h1>Data Visualization and Infographics</h1>
@@ -93,26 +114,7 @@ function Projects() {
             </div>
 
            
-            <div className="parallel">
-                <div className="framel">
-                <img
-                        src={may}
-                        alt="may"
-                    />
-                    
-                </div>
-
-                <div className="framer">
-                <h1>Motion Graphics</h1>
-                    <p>For long time, I've been experimenting with after effects, welcome to see my personal and professional projects.</p>
-
-                    <Link to="/motion">
-                        <button>Learn more...
-                        </button>
-                        </Link>
-                
-                </div>
-            </div>
+        
 
              
         
