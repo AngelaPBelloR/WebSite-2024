@@ -2,7 +2,7 @@ import ink from './assets/images/in.png';
 import inst from './assets/images/insta.jpg';
 import { Link } from "react-router-dom";
 import git from './assets/images/github.jpg';
-import etsy from './assets/images/etsy.jpg';
+
 
 
 function Footer() {
@@ -34,27 +34,38 @@ function Footer() {
                         </tr>
                         <tr>
                             <td>&nbsp;</td>
-                            <td><a href="https://www.etsy.com/shop/AngelaBelloR" target="_blank" rel="noreferrer">Shop</a></td>
+                            <td></td>
                             <td>
-                                <Link to="/webdesignanddev" className="nav-item">Web Design</Link>
-                            </td>
-                            <td>&nbsp;</td>
-                        </tr>
-                        <tr>
-                            <td>&nbsp;</td>
-                            <td>&nbsp;</td>
-                            <td>
-
-                                <Link to="/uiux" className="nav-item">UI/UX</Link>
-                            </td>
-                            <td>&nbsp;</td>
-                        </tr>
-                        <tr>
-                            <td>&nbsp;</td>
-                            <td>&nbsp;</td>
-                            <td>
-
                                 <Link to="/motion" className="nav-item">Motion Graphics</Link>
+                            </td>
+                            <td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                            <td>
+                                
+                                <Link to="/datav" className="nav-item">Data Visualization</Link>
+                                
+                            </td>
+                            <td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                            <td>
+                                
+                                <Link to="/webdesignanddev" className="nav-item">Web Design</Link>
+                                
+                            </td>
+                            <td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                            <td>
+                            <Link to="/uiux" className="nav-item">UI/UX</Link>
+                                
                             </td>
                             <td>&nbsp;</td>
                         </tr>
@@ -72,7 +83,7 @@ function Footer() {
                             <td>&nbsp;</td>
                             <td>
 
-                                <Link to="/editorial" className="nav-item">Editorial</Link>
+                                <Link to="/editorial" className="nav-item">Brand Identity Design</Link>
                             </td>
                             <td>&nbsp;</td>
                         </tr>
@@ -110,11 +121,7 @@ function Footer() {
                             alt="github"
                         /></a>
                     </div>
-                    <div>
-                        <a href="https://www.etsy.com/shop/AngelaBelloR" target="_blank" rel="noreferrer"><img src={etsy}
-                            alt="etsy"
-                        /></a>
-                    </div>
+                   
 
                     <div>
                         <a href="https://www.instagram.com/angela52911/" target='_blank' rel="noreferrer"><img src={inst}

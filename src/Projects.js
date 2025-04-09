@@ -66,7 +66,7 @@ function Projects() {
                 </div>
                 <div className="framer">
                 <h1>Web</h1>
-                    <p>Portfolio websites, all of them, from scratch. Even this one you are looking at right now, I crafted by myself utilizing Basic React. You can see more on my profile at GitHub. (Click on the icon at the footer)</p>
+                    <p>Portfolio websites, from scratch. Even this one you are looking at right now. You can see more on my profile at GitHub. (Click on the icon at the footer)</p>
                     <Link to="/webdesignanddev">
                         <button>Learn more...
                         </button>

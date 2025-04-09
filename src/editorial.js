@@ -8,7 +8,7 @@ function LayoutDesign() {
 
             <h2>Identity</h2>
             <p>
-            Kundalini start as Yoga app and turned into full potential lifestyle....
+            Kundalini start as Yoga app..it turned into full potential lifestyle....
 
             </p>
 
