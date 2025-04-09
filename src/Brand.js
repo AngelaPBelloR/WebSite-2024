@@ -34,7 +34,7 @@ function IconBook(props) {
         <>
             <HTMLFlipBook width={648} height={648} ref={bookRef}>
                 
-                 <div className="demoPage"><img src={p1} alt="page1" /></div>
+                <div className="demoPage"><img src={p1} alt="page1" /></div>
                 <div className="demoPage"><img src={p2} alt="page2" /></div>
                 <div className="demoPage"><img src={p3} alt="page3" /></div>
                 <div className="demoPage"><img src={p4} alt="page4" /></div>

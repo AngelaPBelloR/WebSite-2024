@@ -1,23 +1,23 @@
-import layout from './assets/images/editorial.gif';
+import kundalini from './assets/images/kundalini.gif';
 import Editorialbook from './EditorialBook';
 
 function LayoutDesign() {
     return (
         <>
-            <h1>Editorial</h1>
+            <h1>Brand Design</h1>
 
-            <h2>Layout Design</h2>
+            <h2>Identity</h2>
             <p>
-            For the last year, I have designing layout utilizing InDesign templates for WellSpa360 magazine. Combining typeface mattching, color palllets, and Adobe Stock images. 
+            Kundalini start as Yoga app and turned into full potential lifestyle....
 
             </p>
 
-            <img src={layout}
-            alt= "editorial"  
+            <img src={kundalini}
+            alt= "yogapp"  
             /> 
 
             <div className="flipBook">
-            <h1>Editorial Book</h1>
+            <h1>Brand Book</h1>
             <Editorialbook />
            </div>
         </>

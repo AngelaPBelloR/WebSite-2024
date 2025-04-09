@@ -20,6 +20,11 @@ import page17b from "./assets/editorial/EditorialBook_Page_16.jpg";
 import page18b from "./assets/editorial/EditorialBook_Page_17.jpg";
 import page19b from "./assets/editorial/EditorialBook_Page_18.jpg";
 import page20b from "./assets/editorial/EditorialBook_Page_19.jpg";
+import page21b from "./assets/editorial/EditorialBook_Page_20.jpg";
+import page22b from "./assets/editorial/EditorialBook_Page_21.jpg";
+import page23b from "./assets/editorial/EditorialBook_Page_22.jpg";
+import page24b from "./assets/editorial/EditorialBook_Page_23.jpg";
+import page25b from "./assets/editorial/EditorialBook_Page_24.jpg";
 
 
 
@@ -37,10 +42,10 @@ function Editorialbook(props) {
 
     return (
         <>
-            <HTMLFlipBook width={648} height={648} ref={bookRef}>
+            <HTMLFlipBook width={600} height={600} ref={bookRef}>
                 
                 <div className="demoPage"><img src={page2b} alt="page2b" /></div>
-                <div className="demoPage"><img src={page3b} alt="page3b" /></div>
+                <div className="demoPage"><img src={page2b} alt="page3b" /></div>
                 <div className="demoPage"><img src={page3b} alt="page3b" /></div>
                 <div className="demoPage"><img src={page4b} alt="page4b" /></div>
                 <div className="demoPage"><img src={page5b} alt="page5b" /></div>
@@ -59,6 +64,12 @@ function Editorialbook(props) {
                 <div className="demoPage"><img src={page18b} alt="page18b" /></div>
                 <div className="demoPage"><img src={page19b} alt="page19b" /></div>
                 <div className="demoPage"><img src={page20b} alt="page20b" /></div>
+                <div className="demoPage"><img src={page21b} alt="page21b" /></div>
+                <div className="demoPage"><img src={page22b} alt="page22b" /></div>
+                <div className="demoPage"><img src={page23b} alt="page23b" /></div>
+                <div className="demoPage"><img src={page24b} alt="page24b" /></div>
+                <div className="demoPage"><img src={page25b} alt="page24b" /></div>
+                
                
             
               
