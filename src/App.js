@@ -18,6 +18,8 @@ import Shop from './shop';
 import ThreeD from "./threeD";
 import IconsBook from "./Icons";
 import Rose from './rose';
+import AmeSpen from './amespen';
+import DataTeens from './datateens';
 
 function App() {
   return (
@@ -62,6 +64,8 @@ function RoutesWithAnimation() {
       <Route path="/shop" element={<Shop />}></Route>
       <Route path="/icons" element={<IconsBook/>}></Route>
       <Route path="/rose" element={<Rose/>}></Route>
+      <Route path="/amespen" element={<AmeSpen/>}></Route>
+      <Route path="/datateens" element={<DataTeens/>}></Route>
     </Routes>
   );
 }
