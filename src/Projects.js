@@ -21,23 +21,7 @@ function Projects() {
                 
             </div>
             
-            <div className="parallel">
-                <div className="framel">
-                    <img
-                        src={teaser}
-                        alt="teaser"
-                    />  
-                </div>
-                <div className="framer">
-                    <h1>Motion Graphics</h1>
-                    <p>For long time, I've been experimenting with after effects, welcome to see my personal and professional projects.</p>
-
-                    <Link to="/motion">
-                        <button>Learn more...
-                        </button>
-                    </Link>
-                </div>
-            </div>
+          
             <div className="parallel">
                 <div className="framel">
                 <img
@@ -101,6 +85,24 @@ function Projects() {
                     <h1>Brand Identity Design</h1>
                     <p>Kundalini is a brand, I've envision as a sustainable and healthy lifestyle.</p>
                     <Link to="/editorial">
+                        <button>Learn more...
+                        </button>
+                    </Link>
+                </div>
+            </div>
+
+            <div className="parallel">
+                <div className="framel">
+                    <img
+                        src={teaser}
+                        alt="teaser"
+                    />  
+                </div>
+                <div className="framer">
+                    <h1>Motion Graphics</h1>
+                    <p>For long time, I've been experimenting with after effects, welcome to see my personal and professional projects.</p>
+
+                    <Link to="/motion">
                         <button>Learn more...
                         </button>
                     </Link>
