@@ -2,6 +2,7 @@
 import exploration from './assets/images/exploration.jpg';
 import bubbles from './assets/images/explo.jpg';
 import teens from './assets/images/teens.gif'
+import { Link } from 'react-router-dom';
 
 
 
@@ -9,6 +10,28 @@ import teens from './assets/images/teens.gif'
 function data() {
     return (
         <>
+
+          <div className="parallel">
+                        <div className="framel">
+                        <img
+                                src={data}
+                                alt="data"
+                            /> 
+                    
+                        </div>
+                        <div className="framer">
+                            <h1>Data Visualization</h1>
+                            <p>American Spending</p>
+                            
+                            <Link to="/datv">
+                                <button>Learn more...
+                                </button>
+                            </Link>
+                          
+                        </div>
+                    </div>
+
+
         <h1>Overview</h1>
             <p>
             The National Health Interview Survey-Teen (NHIS-Teen) was an online health survey of teenagers ages 12-17. NHIS-Teen was developed with the input of health and survey experts from both academia and the government, covering a range of health topics. This included doctor visits, sleep, physical activity, injuries, mental health, social and emotional supports, experiences with bullying, discrimination, and other life stressors. In this data visualization project, I developed analitical and persuation skills by recommeding practical solutions to skateholders. 
