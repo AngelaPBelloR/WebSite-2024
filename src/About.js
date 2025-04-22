@@ -42,7 +42,15 @@ function About() {
                     <h1>Experience</h1>
 
                     <p>
-                    My current role is Designer for WellSpa360 at Allured Media Bussines. I crafted captivating layouts for print and digital magazines. Even more, I contribute to elevating digital engagement through dynamic updates for digital magazine mobile and desktop views. I also crafted interactive content, motion graphics, and animations. I aligned with marketing, innovating motion graphics, social media posts, animations, and web banners for high-impact events, webcasts, emails, and campaigns. Previously, as a freelancer, I created impactful digital content, meticulously embodying brand identity and editing images in Photoshop, amplifying their appeal to align with marketing strategies and user feedback. Another remarkable experience I had as a UI/UX Designer. I contributed to relaunching the intranet UI design by translating user needs into compelling and actionable recommendations from rigorous UX research synchronized with developers.
+                    I'm a visual designer with extensive computer literacy and hands-on experience, showcased here on my self-crafted website. This space reflects my web development skills and my ever-growing knowledge base. Over the past year, I’ve been working on data visualization projects while developing my data analysis skills—an exciting evolution made even more natural thanks to my background in engineering, which has helped me merge design and analytical thinking.
+
+                    Most recently, I worked as a Designer for WellSpa360 at Allured Business Media. There, I designed captivating layouts for both print and digital magazines, and enhanced digital engagement by crafting responsive updates for mobile and desktop experiences. I also created interactive content, motion graphics, and animations. Collaborating closely with the marketing team, I developed innovative visuals—including social media assets, web banners, and animations—for high-impact events, webcasts, emails, and campaigns.
+
+                    Previously, as a freelancer, I developed digital content that aligned tightly with brand identity. I edited images in Photoshop, enhanced visual appeal based on user feedback, and contributed to strategic marketing initiatives.
+
+                    Another key role was as a UI/UX Designer, where I helped relaunch a company’s intranet UI. I translated user needs into clear, actionable design recommendations, working closely with developers and leveraging rigorous UX research.
+
+
                     </p>
                 </div>
                 <div className="framer">
