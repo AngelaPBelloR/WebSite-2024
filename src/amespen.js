@@ -13,7 +13,7 @@ function dataspen() {
       
 
 
-        <h1>How Americans Spend </h1>
+        <h1>How Americans Spend</h1>
             <p>
             Following the U.S. Bureau of Economic Analysis, the release of Personal Consumption by State Measures the spending in goods and services purchased by, and on behalf of, households’ state of residence in the fifty states and the District of Columbia. 
             <br />
@@ -35,7 +35,10 @@ function dataspen() {
                     /> 
 
                    <h1>Data Cleaning</h1> 
-                   <p>Dataset size: 20 fields in 1224 rows</p>
+                   <p>Dataset size: 20 fields in 1224 rows
+                    < br/>
+                    No empty fields, consis data, correct type and and format.
+                   </p>
                     <img src={clean}
                     alt= "clean"  
                     /> 
