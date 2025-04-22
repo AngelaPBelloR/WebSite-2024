@@ -60,7 +60,7 @@ function dataspen() {
                 </div>
                 <div>
                     <h1>Presentation</h1>
-                    <p>Introducing the Annual Per Capita Expenditure Average 2023- 2023. Followed by dynamic visualizations of the expenditure lines on average, and finally, the highest lines of expenditure by state. 
+                    <p>Introducing the Annual Per Capita Expenditure Average 2023- 2023. Followed by dynamic visualizations of the expenditure lines on average, and finally, the highest lines of expenditure by state contrast 2022 and 2023. 
                     </p>
                      
                     <img src={show}
