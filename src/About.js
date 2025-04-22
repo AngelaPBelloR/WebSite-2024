@@ -21,7 +21,7 @@ function About() {
 
 
 
-            <div className="parallel">
+           
                 <div className="framel">
                     <img src={about}
                         alt="ima"
@@ -31,18 +31,19 @@ function About() {
 
                     <h1>About</h1>
                     <p>I am a Visual Designer with a track record in creative solutions to challenging projects. What makes me unique is my background in engineering. As an engineer, I developed critical thinking, problem-solving, time management, organizational, and interpersonal communication skills. This combination of education and experience enables me to approach visual design challenges with strategy.
+                    My extensive computer literacy and hands-on experience, showcased here on my self-crafted website. This space reflects my web development skills and my ever-growing knowledge base.
                     </p>
                 </div>
-            </div>
+        
 
 
-            <div className="parallel">
+          
                 <div className="framel">
 
                     <h1>Experience</h1>
 
                     <p>
-                    I'm a visual designer with extensive computer literacy and hands-on experience, showcased here on my self-crafted website. This space reflects my web development skills and my ever-growing knowledge base. Over the past year, I’ve been working on data visualization projects while developing my data analysis skills—an exciting evolution made even more natural thanks to my background in engineering, which has helped me merge design and analytical thinking.
+                    Over the past year, I’ve been working on data visualization projects while developing my data analysis skills—an exciting evolution made even more natural thanks to my background in engineering, which has helped me merge design and analytical thinking.
 
                     Most recently, I worked as a Designer for WellSpa360 at Allured Business Media. There, I designed captivating layouts for both print and digital magazines, and enhanced digital engagement by crafting responsive updates for mobile and desktop experiences. I also created interactive content, motion graphics, and animations. Collaborating closely with the marketing team, I developed innovative visuals—including social media assets, web banners, and animations—for high-impact events, webcasts, emails, and campaigns.
 
@@ -58,9 +59,7 @@ function About() {
                         alt="exp"
                     />
                 </div>
-            </div>
-
-            <div className="parallel">
+        
 
                 <div className="framel">
                 <img
@@ -77,7 +76,7 @@ function About() {
                    
              
                 </div>
-            </div>
+            
             </motion.div> 
         </>
     )

@@ -37,7 +37,7 @@ function dataspen() {
                    <h1>Data Cleaning</h1> 
                    <p>Dataset size: 20 fields in 1224 rows
                     < br/>
-                    No empty fields, consis data, correct type and and format.
+                    No empty fields, consis data, correct type, and format.
                    </p>
                     <img src={clean}
                     alt= "clean"  
