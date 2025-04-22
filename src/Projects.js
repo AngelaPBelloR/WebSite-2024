@@ -32,7 +32,7 @@ function Projects() {
                 </div>
                 <div className="framer">
                     <h1>Data Visualization</h1>
-                    <p>In these project my main aim was effectively assess, present, communicate and visualize data.</p>
+                    <p>In these project my main aim was effectively clean, process, analyse, and visualize data.</p>
                     
                     <Link to="/datav">
                         <button>Learn more...
@@ -91,7 +91,7 @@ function Projects() {
                 </div>
             </div>
 
-            <div className="parallel">
+              <div className="parallel">
                 <div className="framel">
                     <img
                         src={teaser}

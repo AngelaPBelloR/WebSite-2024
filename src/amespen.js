@@ -18,9 +18,8 @@ function dataspen() {
             Following the U.S. Bureau of Economic Analysis, the release of Personal Consumption by State Measures the spending in goods and services purchased by, and on behalf of, households’ state of residence in the fifty states and the District of Columbia. 
             <br />
             MEDIA:Tableau, Google Spreadsheet
-            
             </p>
-            <h3>Source:</h3>
+            <h2>Source:</h2>
                 <p>U.S. Bureau of Economic Analysis, Personal Consumption Expenditures: Services: Financial Services and Insurance for Hawaii [HIPCEFININS], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/HIPCEFININS, April 11, 2025.
                 </p>
 
@@ -57,8 +56,9 @@ function dataspen() {
                     /> 
                 </div>
                 <div>
-                    <h2>Presentation</h2>
-                    <p></p>
+                    <h1>Presentation</h1>
+                    <p>Introducing the Annual Per Capita Expenditure Average 2023- 2023. Followed by dynamic visualizations of the expenditure lines on average, and finally, the highest lines of expenditure by state. 
+                    </p>
                      
                     <img src={show}
                     alt= "show"  

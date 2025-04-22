@@ -1,5 +1,5 @@
-import line from './assets/images/linebystate.gif';
-import teens from './assets/images/teens.gif'
+import line from './assets/images/introspen.jpg';
+import teens from './assets/images/introteens.jpg'
 import { Link } from 'react-router-dom';
 
 
