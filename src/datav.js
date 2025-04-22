@@ -18,7 +18,7 @@ function data() {
             </div>
             <div className="framer">
                 <h1>American Spending</h1>
-                <p></p>
+                <p>Following the U.S. Bureau of Economic Analysis, the release of Personal Consumption by State Measures the spending in goods and services purchased by, and on behalf of, households’ state of residence in the fifty states and the District of Columbia.</p>
                 
                 <Link to="/amespen">
                     <button>Learn more...
@@ -37,7 +37,7 @@ function data() {
             </div>
             <div className="framer">
                 <h1>Teens Support</h1>
-                <p></p>
+                <p>The National Health Interview Survey-Teen (NHIS-Teen) was an online health survey of teenagers ages 12-17. NHIS-Teen was developed with the input of health and survey experts from both academia and the government, covering a range of health topics.</p>
                 
                 <Link to="/datateens">
                     <button>Learn more...
