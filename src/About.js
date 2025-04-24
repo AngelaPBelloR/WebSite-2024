@@ -1,8 +1,10 @@
 import about from './assets/images/ab_about.jpg';
 import experience from './assets/images/about_af.gif';
 import paint from './assets/images/paint.gif';
+import { Link } from 'react-router-dom';
 import { motion } from "framer-motion";
 import { fadeIn } from "./animation";
+
 
 
 
@@ -22,11 +24,7 @@ function About() {
 
 
            
-                <div className="framel">
-                    <img src={about}
-                        alt="ima"
-                    />
-                </div>
+               
                 <div className="framer">
 
                     <h1>About</h1>
@@ -34,7 +32,11 @@ function About() {
                     My extensive computer literacy and hands-on experience, showcased here on my self-crafted website. This space reflects my web development skills and my ever-growing knowledge base.
                     </p>
                 </div>
-        
+                <div className="framel">
+                    <img src={about}
+                        alt="ima"
+                    />
+                </div>
 
 
           
@@ -60,22 +62,32 @@ function About() {
                     />
                 </div>
         
+                   <div className="framer">
+                <h1>Gallery</h1>
+                   
+                   
+             
+                </div>
+
 
                 <div className="framel">
-                <img
+
+                <p>Alongside design and web development, I love painting in oil on canvas. For several years,  I've learned art techniques and styles. My approach is realistic, illustrative, and colorfully displayed.</p>
+                    
+                    
+                    <img
                         src={paint}
                         alt="paint"
                     />
+                    
              
                 </div>
+                <Link to="/gallery">
+                                       <button>Learn more...
+                                       </button>
+                    </Link>
 
-                <div className="framer">
-                <h1>Gallery</h1>
-                    <p>Alongside design and web development, I love painting in oil on canvas. For several years,  I've learned art techniques and styles. My approach is realistic, illustrative, and colorfully displayed.</p>
-                   
-                   
              
-                </div>
             
             </motion.div> 
         </>
