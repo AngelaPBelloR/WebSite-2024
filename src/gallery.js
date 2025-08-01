@@ -1,6 +1,7 @@
 import { motion } from "framer-motion";
 import { fadeIn } from "./animation";
 import rose from './assets/images/chicagoRose.gif';
+import overview from './assets/images/overview.gif';
 import { Link } from 'react-router-dom';
 
 function gallery() {
@@ -22,6 +23,16 @@ function gallery() {
                         </button>
                         
             </Link>
+
+             <h2>Overview Effect</h2>
+            <img src={overview}
+            alt= "overview"  
+            /> 
+            <p>
+                Every era calls for its own way of seeing. In this moment, I believe it is essential to look at the world with renewed vision—one shaped by distance, scale, and perspective. My work is inspired by satellite imagery, offering a bird's-eye view that transforms familiar landscapes into abstract compositions. Through this lens, I invite viewers to reconsider their relationship with the Earth and the way we perceive our environment from above.
+            </p>
+           
+          
            
 
         
