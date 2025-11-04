@@ -32,7 +32,7 @@ function Projects() {
                 </div>
                 <div className="framer">
                     <h1>Data Visualization</h1>
-                    <p>In these project my main aim was effectively clean, process, analyse, and visualize data.</p>
+                    <p>In these projects my main aim was effectively clean, process, analyse, and visualize data.Also, check on GitHub markdown R and Python Noterbooks.</p>
                     
                     <Link to="/datav">
                         <button>Learn more...
