@@ -9,7 +9,7 @@ import teaser from './assets/images/teaser.gif';
 import { Link } from 'react-router-dom';
 import { motion } from "framer-motion";
 import { fadeIn } from "./animation";
-
+import git from './assets/images/github.jpg';
 
 function Projects() {
     return (
@@ -32,7 +32,12 @@ function Projects() {
                 </div>
                 <div className="framer">
                     <h1>Data Visualization</h1>
-                    <p>In these projects my main aim was effectively clean, process, analyse, and visualize data. Also, check on GitHub to see Data Analysis Noterbooks.</p>
+                    <p>In these projects my main aim was effectively clean, process, analyse, and visualize data. Also, check on my GitHub profile to see Data Analysis Notebooks. </p>
+                      <div>
+                                            <a href="https://github.com/AngelaPBelloR" target="_blank" rel="noreferrer" ><img src={git}
+                                                alt="github"
+                                            /></a>
+                      </div>
                     
                     <Link to="/datav">
                         <button>Learn more...
