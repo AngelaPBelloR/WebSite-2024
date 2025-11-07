@@ -2,7 +2,7 @@ import web from './assets/images/web.gif';
 import data from './assets/images/data.gif';
 import uiux from './assets/images/uiux.gif'
 import logo from './assets/images/acorn.gif';
-import editorial from './assets/images/kundalini.gif'
+import editorial from './assets/images/IntroKundalini.gif'
 import threeD from './assets/images/3d.gif';
 import icons from './assets/images/icons.jpg';
 import teaser from './assets/images/teaser.gif';
