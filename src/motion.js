@@ -32,7 +32,7 @@ function motion() {
 
         <h2>Cover Animation</h2>
         <p>
-        Currently working for WellSpa360 Magazine, I've created motion grphics for digital magazine, cover, and features articles. I incorporate Photoshop edition and motion in AfterEffects. I also collaborated with marketing campaigns by creating eblast and social media content.
+        During two years, I worked for WellSpa360 Magazine, I've created motion grphics for digital magazine, cover, and features articles. I incorporate Photoshop edition and motion in AfterEffects. I also collaborated with marketing campaigns by creating eblast and social media content.
         </p>
 
         <img src={Cover}
