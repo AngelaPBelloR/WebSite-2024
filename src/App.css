@@ -75,6 +75,15 @@ p {
   position: relative;
 }
 
+.heroproducts{
+  background-image: url('./assets/images/heroproducts.gif');
+  height: 540px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
 
 button {
   padding: 10px;

@@ -3,6 +3,7 @@ import Home from "./Home";
 import About from "./About";
 import Projects from "./Projects";
 import Contact from "./Contact";
+import  Products from "./Products";
 import { Routes, Route, Link } from "react-router-dom";
 import { AnimatePresence } from "framer-motion";
 import { useLocation } from "react-router-dom"
@@ -28,7 +29,7 @@ function App() {
           <Link to="/" className="nav-item">Home</Link>
           <Link to="/about" className="nav-item">About</Link>
           <Link to="/projects" className="nav-item">Projects</Link>
-          <Link to="/contact" className="nav-item">Contact</Link>
+          <Link to="/Products" className="nav-item">Products</Link>
         </nav>
         <LocationProvider>
           <RoutesWithAnimation />
@@ -52,6 +53,7 @@ function RoutesWithAnimation() {
       <Route path="/about" element={<About />}></Route>
       <Route path="/projects" element={<Projects />}></Route>
       <Route path="/gallery" element={<Gallery />}></Route>
+      <Route path="/products" element={<Products />}></Route>
       <Route path="/contact" element={<Contact />}></Route>
       <Route path="/datav" element={<Datav />}></Route>
       <Route path="/webdesignanddev" element={<WebDesignAndDev />}></Route>
