@@ -96,11 +96,14 @@ button {
 
 nav {
   margin: 1em;
+  display: flex;
+  flex-wrap: wratp;
+  justify-content: center;
 }
 
 nav>.nav-item {
-  padding: 1em;
-  margin: 1em;
+  padding: .25em;
+  margin: .25em;
   text-decoration: none;
 }
 
