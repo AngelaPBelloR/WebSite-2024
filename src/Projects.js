@@ -33,10 +33,13 @@ function Projects() {
                 <div className="framer">
                     <h1>Data Visualization</h1>
                     <p>In these projects my main aim was effectively clean, process, analyze, and visualize data. Also, check on my GitHub profile to see Data Analysis Notebooks. </p>
-                      <div>
-                                            <a href="https://github.com/AngelaPBelloR" target="_blank" rel="noreferrer" ><img src={git}
+                      <div className='icon'>
+                                            <a href="https://github.com/AngelaPBelloR" target="_blank" rel="noreferrer" >
+                                            
+                                            <img src={git}
                                                 alt="github"
-                                            /></a>
+                                            />
+                                            </a>
                       </div>
                     
                     <Link to="/datav">
