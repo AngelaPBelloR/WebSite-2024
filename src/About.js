@@ -30,11 +30,7 @@ function About() {
                         Today, I combine visual hierarchy, UI/UX principles, and data storytelling with rigorous learning design frameworks to architect end-to-end learning experiences. Whether designing interactive multimedia modules or structuring equitable digital learning pathways, my goal is always the same: to create clear, intuitive, and measurable learning outcomes for diverse audiences.
                     </p>
                 </div>
-                <div className="framel">
-                    <img src={about}
-                        alt="ima"
-                    />
-                </div>
+                
 
 
           

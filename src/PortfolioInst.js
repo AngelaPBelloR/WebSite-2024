@@ -3,13 +3,18 @@ import { fadeIn } from "./animation";
 import bennylearn from './assets/images/bennylearning.gif';
 import bennystory from './assets/images/bennyStory.gif';
 import levelup from './assets/images/levelup.gif';
+import color1 from './assets/images/color1.jpg'
+import type1 from './assets/images/type1.jpg'
+import sampletype from './assets/images/sampletype.jpg'
+import visual1 from './assets/images/visual1.jpg'
+import visual2 from './assets/images/visual2.jpg'
 
 function PortfolioInst() {
     return (
         <motion.div variants={fadeIn} initial="initial" animate="final">
             
-            <h2>Benedict Egg Crash Course</h2>
-            <h1>Articulate Rise | Challenge 1</h1>
+            <h1>Benedict Egg Crash Course</h1>
+            <h2>Articulate Rise | Challenge 1</h2>
 
             
             <img src={bennylearn}
@@ -21,8 +26,8 @@ function PortfolioInst() {
                         <button>Learn more...
                         </button>
                 </a>
-             <h2>Benedict Egg Crash Course</h2>
-             <h1>Articulate Storyline  | Challenge 2</h1>
+             <h1>Benedict Egg Crash Course</h1>
+             <h2>Articulate Storyline  | Challenge 2</h2>
 
             <img src={bennystory}
             alt= "bennystory"  
@@ -36,11 +41,30 @@ function PortfolioInst() {
                         </button>
                 </a>
            
+        <div className="framer">
+         <h1>Level Up Your Speech</h1>
+         <h2>Articulate Rise | Prototype</h2>
 
-         <h2>Level Up Your Speech</h2>
-            <h1>Articulate Rise | Proto</h1>
+          <h2>Style Guide</h2>
+          
+            <img src={color1}
+            alt= "color1"  
+            /> 
+        
+            <img src={type1}
+            alt= "type1"  
+            /> 
+            <img src={sampletype}
+            alt= "sampletype"  
+            /> 
+             <img src={visual1}
+            alt= "visual1"  
+            /> 
+            <img src={visual2}
+            alt= "visual2"  
+            /> 
+        <h2>Articulate Rise | Prototype</h2>
 
-            
             <img src={levelup}
             alt= "levelup"  
             /> 
@@ -53,7 +77,7 @@ function PortfolioInst() {
                         <button>Learn more...
                         </button>
                 </a>
-           
+           </div>
         </motion.div>
     )
 }
