@@ -20,7 +20,8 @@ import IconsBook from "./Icons";
 import Rose from './rose';
 import AmeSpen from './amespen';
 import DataEnergy from './energy';
-import Gallery from "./gallery";
+import PortfolioInst from './PortfolioInst';
+
 
 function App() {
   return (
@@ -29,7 +30,7 @@ function App() {
           <Link to="/" className="nav-item">Home</Link>
           <Link to="/about" className="nav-item">About</Link>
           <Link to="/projects" className="nav-item">Projects</Link>
-          <Link to="/gallery" className="nav-item">Gallery</Link>
+          <Link to="/instruction" className="nav-item">Instructional Design</Link>
           <Link to="/Products" className="nav-item">Products</Link>
         </nav>
         <LocationProvider>
@@ -53,7 +54,7 @@ function RoutesWithAnimation() {
       <Route path="/" element={<Home />}></Route>
       <Route path="/about" element={<About />}></Route>
       <Route path="/projects" element={<Projects />}></Route>
-      <Route path="/gallery" element={<Gallery />}></Route>
+      <Route path="/instruction" element={<PortfolioInst/>}></Route>
       <Route path="/products" element={<Products />}></Route>
       <Route path="/contact" element={<Contact />}></Route>
       <Route path="/datav" element={<Datav />}></Route>

@@ -3,9 +3,6 @@ import data from './assets/images/data.gif';
 import uiux from './assets/images/uiux.gif'
 import logo from './assets/images/acorn.gif';
 import editorial from './assets/images/IntroKundalini.gif'
-import threeD from './assets/images/3d.gif';
-import icons from './assets/images/icons.jpg';
-import teaser from './assets/images/teaser.gif';
 import { Link } from 'react-router-dom';
 import { motion } from "framer-motion";
 import { fadeIn } from "./animation";
@@ -97,40 +94,8 @@ function Projects() {
                 </div>
             </div>
 
-              <div className="parallel">
-                <div className="framel">
-                    <img
-                        src={teaser}
-                        alt="teaser"
-                    />  
-                </div>
-                <div className="framer">
-                    <h1>Motion Graphics</h1>
-                    <p>For long time, I've been experimenting with after effects, welcome to see my personal and professional projects.</p>
-
-                    <Link to="/motion">
-                        <button>Learn more...
-                        </button>
-                    </Link>
-                </div>
-            </div>
-            <div className="parallel">
-                <div className="framel">
-                <img
-                        src={threeD}
-                        alt="3d"
-                    />
-                </div>
-                <div className="framer">
-                <h1>3D Design</h1>
-                    <p>My first career was engineering. Then, I learned computing aid design tools. I transfered these skills and became proficient in Blender and Maya.</p>
-                    <Link to="/threeD">
-                            <button>Learn more...
-                            </button>
-                    </Link>
-                   
-                </div>
-            </div>
+            
+           
             <div className="parallel">
                 <div className="framel">
                     <img
@@ -148,22 +113,7 @@ function Projects() {
                    
                 </div>
             </div>
-            <div className="parallel">
-                <div className="framel">
-                    <img
-                        src={icons}
-                        alt="icons"
-                    />
-                </div>
-                <div className="framer">
-                    <h1>Icons Book</h1>
-                    <p>This is a collection of icons I have created for a variety of projects.</p>
-                    <Link to="/icons">
-                        <button>Learn more...
-                        </button>
-                    </Link>
-                </div>
-            </div>
+            
     
         </motion.div>
     )

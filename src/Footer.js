@@ -24,7 +24,7 @@ function Footer() {
                                 <Link to="/projects" className="nav-item">Projects</Link>
                             </th>
                             <th>
-                                <Link to="/gallery" className="nav-item">Gallery</Link>
+                                <Link to="/instruction" className="nav-item">Instructional Design</Link>
                             </th>
                             <th>
                                 <Link to="/contact" className="nav-item">Contact</Link>
@@ -61,23 +61,8 @@ function Footer() {
                             </td>
                             <td>&nbsp;</td>
                         </tr>
-                        <tr>
-                            <td>&nbsp;</td>
-                            <td></td>
-                            <td>
-                                <Link to="/motion" className="nav-item">Motion Graphics</Link>
-                            </td>
-                            <td>&nbsp;</td>
-                        </tr>
-                        <tr>
-                            <td>&nbsp;</td>
-                            <td>&nbsp;</td>
-                            <td>
-
-                                <Link to="/threeD" className="nav-item">3D Design</Link>
-                            </td>
-                            <td>&nbsp;</td>
-                        </tr>
+                      
+                      
                         <tr>
                             <td>&nbsp;</td>
                             <td>&nbsp;</td>
@@ -97,15 +82,7 @@ function Footer() {
                             <td>&nbsp;</td>
                         </tr>
                       
-                        <tr>
-                            <td>&nbsp;</td>
-                            <td>&nbsp;</td>
-                            <td>
-
-                                <Link to="/icons" className="nav-item">Icons Book</Link>
-                            </td>
-                            <td>&nbsp;</td>
-                        </tr>
+                       
                     </table>
                 </div>
 

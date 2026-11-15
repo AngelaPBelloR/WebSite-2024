@@ -28,7 +28,6 @@ function About() {
                     <h1>About</h1>
                     <p>
                         I am a visual strategist with a unique professional evolution. My journey began in Mechanical Engineering, where I developed a foundational rigor for mathematics and analytical problem-solving. This technical background, combined with 5 years of experience in Visual Communication and Fine Arts, allows me to operate at the rare intersection of complex data processing and high-impact storytelling. However, working directly with non-traditional adult learners and ESL students at Triton College reshaped my vision. I saw firsthand how powerful, accessible design could break down educational barriers and build confidence.
-
                         Today, I combine visual hierarchy, UI/UX principles, and data storytelling with rigorous learning design frameworks to architect end-to-end learning experiences. Whether designing interactive multimedia modules or structuring equitable digital learning pathways, my goal is always the same: to create clear, intuitive, and measurable learning outcomes for diverse audiences.
                     </p>
                 </div>
@@ -77,10 +76,7 @@ function About() {
                     
              
                 </div>
-                <Link to="/gallery">
-                                       <button>Learn more...
-                                       </button>
-                    </Link>
+              
 
              
             
