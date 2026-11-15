@@ -1,7 +1,6 @@
 import about from './assets/images/ab_about.jpg';
 import experience from './assets/images/about_af.gif';
 import paint from './assets/images/paint.gif';
-import { Link } from 'react-router-dom';
 import { motion } from "framer-motion";
 import { fadeIn } from "./animation";
 
